@@ -1,0 +1,2 @@
+Ceci est un dossier node, il a besoin d'une des versions de Node 6 et ne fonctionnera pas avec les versions plus récente.
+J'ai retirer le dossier node module pour éviter de dépasser la limite du GitHub
